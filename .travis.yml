@@ -1,7 +1,10 @@
 language: node_js
 
-install:
+before_install:
   - npm install grunt-cli
+
+install:
+  - npm install
   
 node_js:
   - 0.10
