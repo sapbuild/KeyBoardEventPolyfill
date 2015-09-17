@@ -9,3 +9,10 @@ norman-keyboard-event-polyfill
 KeyboardEvent polyfill for additional KeyboardEvent properties defined in the D3E and D4E draft specifications.
 
 https://github.com/inexorabletash/polyfill/blob/master/keyboard.md
+
+# BUILD on GitHub
+
+[Click here](https://github.com/SAP/BUILD) to visit the central BUILD project on GitHub, where you can find out more!
+
+[Click here](https://github.com/SAP/BUILD/blob/master/Contributing.md) to view the BUILD Contribution Guidelines. 
+
